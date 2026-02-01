@@ -66,7 +66,7 @@ a:hover { background:#1f4fb8; }
     <a href="scryfall/index.php">🌐 CRUD Scryfall</a>
     <a href="edicoes/index.php">🌐 Numero Card Edicoes Scryfall</a>
     <a href="comparar/comparar_cartas.php">🌐 COMPARAR Scryfall X Ligamagic</a>
-    <a href="comparar/comparar_imagens.php">🌐 Comparação de Cartas Por Imagens</a>
+    <a href="comparar/comparar_imagens.php">🌐 Comparação de Cartas Por Imagens 12</a>
 
 </div>
 
